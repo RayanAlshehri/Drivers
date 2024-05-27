@@ -10,6 +10,8 @@ This project allows drivers registered in the [DVLD](https://github.com/RayanAls
 - ADO.NET
 - SQL Server
 
+[Screenshots](https://drive.google.com/drive/folders/1bWZKaSlbNtCee-Ldwzofoa0xk3CxV-d8?usp=drive_link)
+
 ## Setup Instructions
 To download the DVLD project with all of its extensions, click [here](https://drive.google.com/drive/folders/1q0XTn3HVTAz0D0yIsY1Lasm0nrvzmRYm?usp=drive_link). Please follow the instructions in the `README.txt` file for correct setup.
 
