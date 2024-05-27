@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Drivers_Presentation/.vs
+/Drivers_Presentation/bin
+/Drivers_Presentation/obj
+/Drivers_Presentation/App.config
